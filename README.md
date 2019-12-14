@@ -34,8 +34,8 @@ OrientDB, NodeJS, and Yarn should be installed
 
 ```
 yarn global add webpack babel-cli nodemon cross-env concurrently react-scripts  
-yarn add
-cd server && yarn add 
+yarn install
+cd server && yarn install
 ```
 
 ## Scripts
